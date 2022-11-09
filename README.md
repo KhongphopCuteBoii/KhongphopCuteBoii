@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my Github! 🍀</h1>
 Hey there 👋,<br>
-Since I'm just an ameteur, I haven't spend my time much on these stuffs. But I promise I'll progressively update my Github. 🌟<br>
+Since I'm just an ameteur, I haven't spend my time much on these stuffs. But I promise I'll progressively update my Github. 🌟<br><br>
 I'm mostly known as C, an amateur programmer and newbie artist. I'm mostly working on shader stuffs, MCBE add-ons, etc... And most of them were posted here, too. You can check them if you want. ☕
 
 
