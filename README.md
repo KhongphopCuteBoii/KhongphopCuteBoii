@@ -1,5 +1,5 @@
 <img src="https://media.discordapp.net/attachments/895574855372652564/1040110337371942912/20221110_104216.jpg">
-<h1 align="center">Welcome to my Github! 🍀</h1>
+<h1 align="center">Welcome to my Github! 🌿</h1>
 Hey there 👋,<br>
 Since I'm just an ameteur, I haven't spend my time much on these stuffs. But I promise I'll progressively update my Github. 🌟<br><br>
 I'm pretty well known as C, an amateur programmer and newbie artist. I'm mostly working on shader stuffs, MCBE add-ons, etc... And most of them were posted here, too. You can check them if you want. ☕
